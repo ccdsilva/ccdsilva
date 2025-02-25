@@ -1,5 +1,5 @@
-# Olá, eu sou Cleiton "Cassemiro Da" Silva 👋
--🎓 Atualmente cursando Bacharelado em Ciências Matemáticas e da Terra - UFRJ.
+# Olá, eu sou Cleiton "Cassemiro Da" Silva 👋           
+-🎓 Atualmente cursando Bacharelado em Ciências Matemáticas e da Terra - UFRJ.            <div class="tenor-gif-embed" data-postid="10415454290715502807" data-share-method="host" data-aspect-ratio="1.77778" data-width="100%"><a href="https://tenor.com/view/aloha-bonjour-crypto-greetings-hello-gif-10415454290715502807">Aloha Bonjour Sticker</a>from <a href="https://tenor.com/search/aloha-stickers">Aloha Stickers</a></div> <script type="text/javascript" async src="https://tenor.com/embed.js"></script>
 -🎓 Também Bacharelando Ciências Contábeis - MULTIVIX.
 - 🔎 Aberto para vagas de estágio/emprego.
 
