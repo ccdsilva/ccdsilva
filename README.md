@@ -1,7 +1,7 @@
 # Olá, eu sou Cleiton "Cassemiro Da" Silva 👋           
-<a> - 🎓 Atualmente cursando Bacharelado em Ciências Matemáticas e da Terra - UFRJ.        
+<div> - 🎓 Atualmente cursando Bacharelado em Ciências Matemáticas e da Terra - UFRJ.        
 - 🎓 Também Bacharelando Ciências Contábeis - MULTIVIX. 
-- 🔎 Aberto para vagas de estágio/emprego. </a>  <a> ![ola](https://media.tenor.com/kIsgfnRqaNcAAAAj/aloha-bonjour.gif) </a>
+- 🔎 Aberto para vagas de estágio/emprego. </div>  <a> ![ola](https://media.tenor.com/kIsgfnRqaNcAAAAj/aloha-bonjour.gif) </a>
 
 ![Estatística do Github de Cleiton Silva](https://github-readme-stats.vercel.app/api?username=ccdsilva&show_icons=true&count_private=true&show_icons=true&theme=gruvbox)
 
