@@ -6,6 +6,8 @@ Sou bacharelando em Ciências Matemáticas e da Terra e em Contabilidade. Tenho 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ccdsilva)](https://github.com/ccdsilva/github-readme-stats)
 
+[![Cleiton's GitHub stats](https://github-readme-stats.vercel.app/api?username=ccdsilva)](https://github.com/ccdsilva/github-readme-stats)
+
 ## Tecnologias e Ferramentas
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white)
