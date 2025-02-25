@@ -4,13 +4,10 @@
 ## Sobre Mim
 Sou bacharelando em Ciências Matemáticas e da Terra e em Contabilidade. Tenho experiência em tecnologias como Python, C#, C, C++ e R. 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ccdsilva)](https://github.com/ccdsilva/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ccdsilva)](https://github.com/ccdsilva/github-readme-stats) [![Cleiton's GitHub stats](https://github-readme-stats.vercel.app/api?username=ccdsilva&count_private=true)](https://github.com/ccdsilva/github-readme-stats)
 
-[![Cleiton's GitHub stats](https://github-readme-stats.vercel.app/api?username=ccdsilva&count_private=true)](https://github.com/ccdsilva/github-readme-stats)
-
-![Cleiton's GitHub stats](https://github-readme-stats.vercel.app/api?username=ccdsilva&hide=contribs,prs)
-Davi Mattos's GitHub stats  Davi Mattos Top Langs  Readme Card
 ##👨‍🎓 Formações
+
 * Ciências Matemáticas e da Terra - UFRJ
 * Ciências Contábeis - MULTIVIX
   
