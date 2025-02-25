@@ -1,5 +1,5 @@
 # Olá, eu sou Cleiton "Cassemiro Da" Silva 👋           
-- 🎓 Atualmente cursando Bacharelado em Ciências Matemáticas e da Terra - UFRJ.         
+- 🎓 Atualmente cursando Bacharelado em Ciências Matemáticas e da Terra - UFRJ.         <div> ![ola](https://media.tenor.com/kIsgfnRqaNcAAAAj/aloha-bonjour.gif) </div>
 - 🎓 Também Bacharelando Ciências Contábeis - MULTIVIX.
 - 🔎 Aberto para vagas de estágio/emprego.
 
@@ -32,5 +32,4 @@
 <a href="https://www.linkedin.com/in/ccdsilva" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
 </div>
 
-
-![ola](https://media.tenor.com/kIsgfnRqaNcAAAAj/aloha-bonjour.gif)
+___
