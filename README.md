@@ -14,7 +14,7 @@
 * Ciências Contábeis - MULTIVIX
   
 ## 💻 Linguagens conhecidas e em estudo
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" width="100" height="100"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" width="50" height="50"/>
 
 
           
