@@ -1,14 +1,9 @@
 # Olá, eu sou Cleiton "Cassemiro Da" Silva 👋
 
 
-## Sobre Mim
-Sou bacharelando em Ciências Matemáticas e da Terra e em Contabilidade. Tenho experiência em tecnologias como Python, C#, C, C++ e R. 
+![Estatística do Github de Cleiton Silva](https://github-readme-stats.vercel.app/api?username=ccdsilva&show_icons=true&count_private=true&show_icons=true&theme=radical)
 
-![Cleiton's GitHub stats](https://github-readme-stats.vercel.app/api?username=ccdsilva&show_icons=true&count_private=true)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ccdsilva)](https://github.com/ccdsilva/github-readme-stats)     [![Cleiton's GitHub stats](https://github-readme-stats.vercel.app/api?username=ccdsilva&count_private=true)](https://github.com/ccdsilva/github-readme-stats)
-
-
+[![Linguangens mais usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=ccdsilva)](https://github.com/ccdsilva/github-readme-stats&show_icons=true&theme=radical)    
 
 ##👨‍🎓 Formações
 
