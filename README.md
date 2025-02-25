@@ -6,6 +6,8 @@ Sou bacharelando em Ciências Matemáticas e da Terra e em Contabilidade. Tenho 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ccdsilva)](https://github.com/ccdsilva/github-readme-stats)     [![Cleiton's GitHub stats](https://github-readme-stats.vercel.app/api?username=ccdsilva&count_private=true)](https://github.com/ccdsilva/github-readme-stats)
 
+![Cleiton's GitHub stats](https://github-readme-stats.vercel.app/api?username=ccdsilva&show_icons=true&count_private=true)
+
 ##👨‍🎓 Formações
 
 * Ciências Matemáticas e da Terra - UFRJ
