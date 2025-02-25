@@ -1,9 +1,18 @@
 # Olá, eu sou Cleiton "Cassemiro Da" Silva 👋
-
+-🎓 Atualmente cursando Bacharelado em Ciências Matemáticas e da Terra - UFRJ.
+-🎓 Também Bacharelando Ciências Contábeis - MULTIVIX.
+- 🔎 Aberto para vagas de estágio/emprego.
 
 ![Estatística do Github de Cleiton Silva](https://github-readme-stats.vercel.app/api?username=ccdsilva&show_icons=true&count_private=true&show_icons=true&theme=gruvbox)
 
-[![Linguangens mais usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=ccdsilva&show_icons=true&theme=gruvbox)](https://github.com/ccdsilva/github-readme-stats)    
+[![Linguangens mais usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=ccdsilva&show_icons=true&theme=gruvbox)](https://github.com/ccdsilva/github-readme-stats)  
+
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats" />
+</a>
+<a href="https://github.com/anuraghazra/convoychat">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=convoychat" />
+</a>
 
 ##👨‍🎓 Formações
 
