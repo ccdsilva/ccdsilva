@@ -1,5 +1,5 @@
 # Olá, eu sou Cleiton "Cassemiro Da" Silva 👋           
--🎓 Atualmente cursando Bacharelado em Ciências Matemáticas e da Terra - UFRJ.            <div class="tenor-gif-embed" data-postid="10415454290715502807" data-share-method="host" data-aspect-ratio="1.77778" data-width="100%"><a href="https://tenor.com/view/aloha-bonjour-crypto-greetings-hello-gif-10415454290715502807">Aloha Bonjour Sticker</a>from <a href="https://tenor.com/search/aloha-stickers">Aloha Stickers</a></div> <script type="text/javascript" async src="https://tenor.com/embed.js"></script>
+-🎓 Atualmente cursando Bacharelado em Ciências Matemáticas e da Terra - UFRJ.         
 -🎓 Também Bacharelando Ciências Contábeis - MULTIVIX.
 - 🔎 Aberto para vagas de estágio/emprego.
 
@@ -26,9 +26,9 @@
 
 ## 📫Onde me encontrar
 <div>
-<a href="https://www.youtube.com/seu-canal-youtube-aqui" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
-<a href="https://instagram.com/seu-usuário-instagram-aqui" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+<a href="https://t.me/ccdsilva" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/Telegram-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
+<a href="https://instagram.com/eu.cleiton_" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
 <a href="https://www.twitch.tv/seu-usuário-aqui" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white" target="_blank"></a>
-<a href = "mailto:contato@seu-usuário-aqui"><img loading="lazy" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-<a href="https://www.linkedin.com/in/seu-usuário-linkedln-aqui" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
+<a href = "mailto:ccdsilv@gmail.com"><img loading="lazy" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+<a href="https://www.linkedin.com/in/ccdsilva" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
 </div>
