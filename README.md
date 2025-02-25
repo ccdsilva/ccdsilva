@@ -9,6 +9,8 @@
 [![Linguangens mais usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=ccdsilva&show_icons=true&theme=gruvbox)](https://github.com/ccdsilva/github-readme-stats) <a> [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ccdsilva&repo=REST-API-ELEKTRO&theme=gruvbox)](https://github.com/ccdsilva/REST-API-ELEKTRO )
 </a>
 
+![Snake animation](https://github.com/ccdsilva/ccdsilva/blob/output/github-contribution-grid-snake.svg)
+
 ## 👨‍🎓 Formações
 
 * Ciências Matemáticas e da Terra - UFRJ
