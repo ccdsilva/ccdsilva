@@ -1,5 +1,4 @@
 # Olá, eu sou Cleiton "Cassemiro Da" Silva 👋
-___
 
 
 ## Sobre Mim
