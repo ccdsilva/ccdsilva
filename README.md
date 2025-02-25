@@ -1,9 +1,9 @@
 # Olá, eu sou Cleiton "Cassemiro Da" Silva 👋
 
 
-![Estatística do Github de Cleiton Silva](https://github-readme-stats.vercel.app/api?username=ccdsilva&show_icons=true&count_private=true&show_icons=true&theme=radical)
+![Estatística do Github de Cleiton Silva](https://github-readme-stats.vercel.app/api?username=ccdsilva&show_icons=true&count_private=true&show_icons=true&theme=dark)
 
-[![Linguangens mais usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=ccdsilva)](https://github.com/ccdsilva/github-readme-stats&show_icons=true&theme=radical)    
+[![Linguangens mais usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=ccdsilva&show_icons=true&theme=dark)](https://github.com/ccdsilva/github-readme-stats)    
 
 ##👨‍🎓 Formações
 
