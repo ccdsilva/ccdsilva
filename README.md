@@ -5,8 +5,7 @@
 
 ![Estatística do Github de Cleiton Silva](https://github-readme-stats.vercel.app/api?username=ccdsilva&show_icons=true&count_private=true&show_icons=true&theme=gruvbox)
 
-[![Linguangens mais usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=ccdsilva&show_icons=true&theme=gruvbox)](https://github.com/ccdsilva/github-readme-stats)  <a href="https://github.com/Squad-1-EJCM-25-1/squad1">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ccdsilva&repo=Squad-1-EJCM-25-1" />
+[![Linguangens mais usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=ccdsilva&show_icons=true&theme=gruvbox)](https://github.com/ccdsilva/github-readme-stats) <a> [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ccdsilva&repo=squad1)](https://github.com/Squad-1-EJCM-25-1/squad1)
 </a>
 
 ##👨‍🎓 Formações
